@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>titulo da minha pagina</h1>
+    <!-- -->
+    <p>este é o primeiro paragrafo da minha pagina web</p>
+    <p>Este é o segundo "<strong>Esta parte em negrito </strong> <em>E aqui em itálico</em></p>
+</body>
+
+</html>
